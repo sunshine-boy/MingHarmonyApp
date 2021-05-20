@@ -1,2 +1,2 @@
-# MingHarmonyApp
-HarmonyOS应用开发实战教程源码
+# 古有魏蜀吴，现有AIH（Android、IOS、HarmonyOS）
+

@@ -1,0 +1,28 @@
+{
+  "app": {
+    "bundleName": "com.itming.lib",
+    "vendor": "itming",
+    "version": {
+      "code": 1000000,
+      "name": "1.0.0"
+    },
+    "apiVersion": {
+      "compatible": 5,
+      "target": 5,
+      "releaseType": "Release"
+    }
+  },
+  "deviceConfig": {
+  },
+  "module": {
+    "package": "com.itming.componet.table",
+    "deviceType": [
+      "phone"
+    ],
+    "distro": {
+      "deliveryWithInstall": true,
+      "moduleName": "mingtable",
+      "moduleType": "har"
+    }
+  }
+}
